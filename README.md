@@ -1,4 +1,4 @@
-#Atividade Prog. 2
+# Atividade Prog. 2
 
 Alunos: João Vitor Gislon Paulo e Ygor Gonçalves
 
